@@ -1,4 +1,4 @@
-# Movie Title Generator
+# JS-Scripts
 
 ## Description
 This project contains several js-scripts:
